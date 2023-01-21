@@ -1,6 +1,6 @@
 ### Hi there from Ukraine 👋🇺🇦!!!
 
-I'm Front-End developer 2+ years.
+
 
 My superpowers 💪:
 
